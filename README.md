@@ -51,5 +51,13 @@ libs/
 
 Thanks to everyone who has contributed!
 
-[![Adrian Romanski](https://avatars.githubusercontent.com/u/34604248?v=4&s=80)](https://github.com/AdrianRomanski)  
-[**Adrian Romanski**](https://github.com/AdrianRomanski)
+<div>
+
+  <a href="https://github.com/AdrianRomanski" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://avatars.githubusercontent.com/u/44946000?v=4" width="80" style="border-radius: 50%;" alt="Adrian Romanski" /><br />
+    <sub><b>Adrian Romanski</b></sub>
+  </a>
+
+  <!-- Add more contributors here -->
+
+</div>
