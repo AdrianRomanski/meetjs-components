@@ -44,20 +44,17 @@ libs/
   angular/design-system/
   react/design-system/
   vue/design-system/
-...
+  ...
 ```
-
+---
+## Contributors
 ## Contributors
 
-Thanks to everyone who has contributed!
+Thanks to all these awesome people:
 
-<div>
+[![Contributors](https://contrib.rocks/image?repo=meetjs-components/meetjs-components)](https://github.com/meetjs-components/meetjs-components/graphs/contributors)
 
-  <a href="https://github.com/AdrianRomanski" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://avatars.githubusercontent.com/u/44946000?v=4" width="80" style="border-radius: 50%;" alt="Adrian Romanski" /><br />
-    <sub><b>Adrian Romanski</b></sub>
-  </a>
+<!-- contributors:start -->
+<!-- contributors:end -->
 
-  <!-- Add more contributors here -->
-
-</div>
+> This list is auto-generated from GitHub contributors. If you contributed, you’ll show up here soon!
