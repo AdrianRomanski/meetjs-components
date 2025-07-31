@@ -1,5 +1,5 @@
 # 🇵🇱 Meet.js Components
-
+---
 **Framework-native Design Systems. Community-powered Web Components.**
 
 An open-source initiative by the Polish Meet.js community to explore
@@ -46,7 +46,7 @@ libs/
   vue/design-system/
 ...
 ```
-
+---
 ## Contributors
 
 Thanks to everyone who has contributed!
@@ -61,7 +61,7 @@ Thanks to everyone who has contributed!
   <!-- Add more contributors here -->
 
 </div>
-
+---
 ## Angular 
 
 To start Storybook for the Angular app, use one of the following commands:
@@ -73,6 +73,6 @@ yarn run angular-storybook
 # Using npm
 npm run angular-storybook
 ``` 
-
+---
 This will launch Storybook in development mode and open it in your default browser.
-
+---
