@@ -2,14 +2,14 @@
 
 **Framework-native Design Systems. Community-powered Web Components.**
 
-An open-source initiative by the Polish Meet.js community to explore 
+An open-source initiative by the Polish Meet.js community to explore
 how **framework-specific design systems** can serve as the foundation for **reusable Web Components**.
 
 ---
 
 ## Vision
 
-In every modern frontend framework, the way we style, structure, and compose components varies. 
+In every modern frontend framework, the way we style, structure, and compose components varies.
 Meet.js Components embraces this diversity by building:
 
 - 🧩 A **dedicated design system per framework** (Angular, React, Vue, Svelte, Qwik, Solid, Vanilla)
@@ -34,9 +34,9 @@ This project celebrates the flexibility of modern tools while converging toward 
 
 ```bash
 apps/
-  storybook-angular/
-  storybook-react/
-  storybook-vue/
+  angular-storybook/
+  react-storybook/
+  vue-storybook/
   vanilla-app/
   ...
 
@@ -48,7 +48,6 @@ libs/
 ```
 ---
 ## Contributors
-## Contributors
 
 Thanks to all these awesome people:
 
@@ -57,4 +56,4 @@ Thanks to all these awesome people:
 <!-- contributors:start -->
 <!-- contributors:end -->
 
-> This list is auto-generated from GitHub contributors. If you contributed, you’ll show up here soon!
+
