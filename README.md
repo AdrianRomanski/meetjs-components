@@ -30,23 +30,6 @@ This project celebrates the flexibility of modern tools while converging toward 
 
 ---
 
-## Monorepo Structure (Nx)
-
-```bash
-apps/
-  angular-storybook/
-  react-storybook/
-  vue-storybook/
-  vanilla-app/
-  ...
-
-libs/
-  angular/design-system/
-  react/design-system/
-  vue/design-system/
-...
-```
-
 ## Contributors
 
 Thanks to everyone who has contributed!
