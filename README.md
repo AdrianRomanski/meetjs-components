@@ -1,4 +1,7 @@
 # 🇵🇱 Meet.js Components
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Framework-native Design Systems. Community-powered Web Components.**
 
@@ -49,6 +52,12 @@ libs/
 ---
 ## Contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 Thanks to all these awesome people:
 
 [![Contributors](https://contrib.rocks/image?repo=meetjs-components/meetjs-components)](https://github.com/meetjs-components/meetjs-components/graphs/contributors)
