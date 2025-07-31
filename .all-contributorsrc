@@ -1,0 +1,9 @@
+{
+  "projectName": "meetjs-components",
+  "projectOwner": "AdrianRomanski",
+  "repoType": "github",
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": []
+}
