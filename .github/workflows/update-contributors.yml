@@ -2,7 +2,7 @@ name: Update Contributors
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Runs every Monday
+    - cron: '0 0 * * 1'  # Every Monday
   workflow_dispatch:
 
 jobs:
@@ -10,8 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: wow-actions/contributors-list@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate contributors list
+        run: npx all-contributors-cli generate
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
         with:
+          add: 'README.md .all-contributorsrc'
+          message: 'docs: update contributors [skip ci]'
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          readme-path: 'README.md'
-          marker: '## Contributors'
