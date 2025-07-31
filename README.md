@@ -1,4 +1,7 @@
 # 🇵🇱 Meet.js Components
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Framework-native Design Systems. Community-powered Web Components.**
 
@@ -44,35 +47,22 @@ libs/
   angular/design-system/
   react/design-system/
   vue/design-system/
-...
+  ...
 ```
-
+---
 ## Contributors
 
-Thanks to everyone who has contributed!
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+Thanks to all these awesome people:
 
-<div>
+[![Contributors](https://contrib.rocks/image?repo=meetjs-components/meetjs-components)](https://github.com/meetjs-components/meetjs-components/graphs/contributors)
 
-  <a href="https://github.com/AdrianRomanski" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://avatars.githubusercontent.com/u/44946000?v=4" width="80" style="border-radius: 50%;" alt="Adrian Romanski" /><br />
-    <sub><b>Adrian Romanski</b></sub>
-  </a>
+<!-- contributors:start -->
+<!-- contributors:end -->
 
-  <!-- Add more contributors here -->
-
-</div>
-
-## Angular 
-
-To start Storybook for the Angular app, use one of the following commands:
-
-```bash
-# Using Yarn
-yarn run angular-storybook
-
-# Using npm
-npm run angular-storybook
-``` 
-
-This will launch Storybook in development mode and open it in your default browser.
 
