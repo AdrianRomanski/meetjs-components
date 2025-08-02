@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@meetjs/angular-ui": ["libs/angular/design-system/ui/src/index.ts"]
+      "@meetjs/angular-ui": ["libs/angular/design-system/ui/src/index.ts"],
+      "@meetjs/react": ["libs/react/design-system/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
